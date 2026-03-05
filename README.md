@@ -53,6 +53,9 @@
 </div>
 
 <br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/DalpatRathore/dalpatrathore/main/assets/images/line-1.svg" width="55%" />
